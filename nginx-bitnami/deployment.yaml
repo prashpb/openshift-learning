@@ -79,7 +79,7 @@ spec:
     kind: Service
     name: nginx-service
     weight: 100
-  tls:
-    termination: edge
-    insecureEdgeTerminationPolicy: Redirect
+  # tls:
+  #   termination: edge
+  #   insecureEdgeTerminationPolicy: Allow
 status: {}
