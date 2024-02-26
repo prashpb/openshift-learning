@@ -5,10 +5,10 @@ metadata:
 data:
   index.html: |
     <html>
-    <h1>Yayy! Looks like you found my Kube webpage!</h1>
+    <h1>Yayy! Looks like you found my Kube webpage! and Hurray</h1>
     </br>
     </html
-    <h1>This web page is housed on a Pod running Nginx {{ hostname }}</h1>
+    <h1>This web page is housed on a Pod running Nginx</h1>
     </html
 
 ---
